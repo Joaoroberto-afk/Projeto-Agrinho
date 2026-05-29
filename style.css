@@ -1,0 +1,23 @@
+ *{margin: 0;
+ padding: 0;
+ box-sizing: border-box;}
+
+body
+{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    padding: auto;
+    background-color: rgb(1, 57, 29);
+}
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    color: aliceblue;
+}
+.imagem.projeto {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
